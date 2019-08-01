@@ -1,0 +1,8 @@
+name: Crosschat
+version: ${project.version}
+main: ru.godlux.crosschat.Main
+api-version: 1.13
+prefix: [CrossChat]
+authors: [Godlux]
+description: Cross-servers-chat
+website: anicrafts.ru
